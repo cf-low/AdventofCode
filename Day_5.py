@@ -1,4 +1,4 @@
-with open("Input.txt", "r") as fo:
+with open("Day_5.py", "r") as fo:
     fileL = []
     for line in fo:
         line = line.rsplit('\n')[0].split(" -> ")
